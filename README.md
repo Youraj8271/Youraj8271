@@ -14,18 +14,12 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCent
             src="https://img.shields.io/badge/Instagram%20Threads-%23000000?logo=instagram&style=for-the-badge&link=https://www.instagram.com/Youraj8271&color=green"
             alt="Youraj8271" /></a> </p>
 
-- 🔭 I have recently worked on [Expense ReactJS Projects](https://github.com/Youraj8271/)
-
-- 🌱 I’m currently learning ****
-
-- 👯 I’m looking forward to **MERN Stack projects.**
-
-- 📝 About me : Always ready to learn.
-
-- 💬 Ask me about **react and Web Development.**
-
-- ⚡ Fun fact: **I think I am quite funny.**
-
+- 🔭 I have recently worked on [Real-Time Traffic Flow Prediction System](https://github.com/Youraj8271/)
+- 🌱 Currently learning **Deep Learning, NLP & Big Data**
+- 👯 Looking to collaborate on **AI, ML & Data Analytics Projects**
+- 📊 Passionate about **Data Visualization, Statistics & Machine Learning**
+- 🧠 Motto: *"Turning data into decisions and insights."*
+- ⚡ Fun fact: **I can spend hours optimizing one line of code!**
 
 ### Skills and Tools: &nbsp; 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
