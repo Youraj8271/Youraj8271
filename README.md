@@ -2,7 +2,6 @@
 <img src="https://user-images.githubusercontent.com/87755170/184556521-557622be-bb3b-4393-a20c-7a5874983ee8.gif" width="24px" height="24px" />
 
 ---
-
 ### 🧠 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+a+Data+Scientist.;I+love+analyzing+and+visualizing+data.;I+build+AI+and+ML+models.;I+am+always+ready+to+learn+something+new.)](https://git.io/typing-svg)
 
@@ -77,14 +76,20 @@
 </p>
 
 ---
+🧠 Featured Data Science Projects:
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| 🚗 [Real-Time Traffic Flow Prediction](https://github.com/Youraj8271/real-time-traffic-prediction) | Predicts traffic congestion using ML models. | Python, Pandas, Sklearn, Streamlit |
+| 🎮 [Video Game Sales Analysis](https://github.com/Youraj8271/video-game-sales-analysis) | Analyzes gaming industry data and trends. | Pandas, Seaborn, Matplotlib |
+| 🍛 [Local Food Waste Management](https://github.com/Youraj8271/local-food-waste-management) | Connects food donors & receivers to reduce waste. | Streamlit, SQL, Python |
+| 💹 [Tesla Stock Price Prediction](https://github.com/Youraj8271/Tesla-Stock-Price-Prediction) | Forecasts stock prices using deep learning. | LSTM, TensorFlow, Matplotlib |
+| 🩺 [Tuberculosis Detection](https://github.com/Youraj8271/Tuberculosis_Detection_Using_Deep_Learning) | Classifies X-ray images for TB detection. | CNN, TensorFlow |
+| 🧾 [Medical Insurance Cost Prediction](https://github.com/Youraj8271/medical-insurance-cost-prediction) | Predicts insurance charges using regression. | Scikit-learn, Pandas |
+| 🎙️ [Human Voice Classification](https://github.com/Youraj8271/human-voice-classification) | Identifies gender based on voice data. | Librosa, Sklearn |
+| 📊 [Crime Dashboard Project](https://github.com/Youraj8271/crime-dashboard-project) | Interactive crime data visualization dashboard. | Plotly, Dash, Power BI |
+| 🧬 [WESTPA Simulation Dashboard](https://github.com/Youraj8271/westpa-simulation-dashboard) | Visualization tool for WESTPA simulations. | MDAnalysis, Flask |
+| 🤖 [Anjali-AI](https://github.com/Youraj8271/Anjali-AI) | Voice-controlled AI with task automation. | FastAPI, Python, NLP |
 
-### 🧩 Featured Projects:
-- 🥗 [Local Food Wastage Management System](https://github.com/Youraj8271/Food-Wastage-Management)
-- 🎮 [Video Game Sales & Engagement Analysis](https://github.com/Youraj8271/Video-Game-Sales)
-- 🚗 [Real-Time Traffic Flow Prediction System](https://github.com/Youraj8271/Traffic-Flow-Prediction)
-- 💹 [Tesla Stock Price Prediction](https://github.com/Youraj8271/Tesla-Stock-Price-Prediction)
-- 🌾 [Crop Yield Prediction System](https://github.com/Youraj8271/Crop-Yield-Prediction)
-- 🧠 [AI-Powered Dream11 Team Generator](https://github.com/Youraj8271/Dream11-AI)
 
 ---
 
