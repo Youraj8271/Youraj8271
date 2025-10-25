@@ -1,4 +1,4 @@
-## Hi, I'm [Manish Kumar](https://www.linkedin.com/Youraj8271) &nbsp; <img src="https://user-images.githubusercontent.com/87755170/184556521-557622be-bb3b-4393-a20c-7a5874983ee8.gif" width="24px" height="24px" />
+## Hi, I'm [youraj Kumar](https://www.linkedin.com/Youraj8271) &nbsp; <img src="https://user-images.githubusercontent.com/87755170/184556521-557622be-bb3b-4393-a20c-7a5874983ee8.gif" width="24px" height="24px" />
 
 
 ### About Me:
@@ -16,7 +16,7 @@ SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCent
 
 - 🔭 I have recently worked on [Expense ReactJS Projects](https://github.com/Youraj8271/)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking forward to **MERN Stack projects.**
 
