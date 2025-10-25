@@ -1,84 +1,118 @@
-## Hi, I'm [youraj Kumar](https://www.linkedin.com/Youraj8271) &nbsp; <img src="https://user-images.githubusercontent.com/87755170/184556521-557622be-bb3b-4393-a20c-7a5874983ee8.gif" width="24px" height="24px" />
+## Hi, I'm [Youraj Kumar](https://www.linkedin.com/in/Youraj8271) 👋  
+<img src="https://user-images.githubusercontent.com/87755170/184556521-557622be-bb3b-4393-a20c-7a5874983ee8.gif" width="24px" height="24px" />
 
+---
 
-### About Me:
-[![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+a+Frontend+developer.;I+love+writing+React+codes.;I+am+a+web+designer.;I+can+help+you+with+your+project.)](https://git.io/typing-svg)
+### 🧠 About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Segoe+UI&color=%2358A6FF&vCenter=true&lines=I+am+a+Data+Scientist.;I+love+analyzing+and+visualizing+data.;I+build+AI+and+ML+models.;I+am+always+ready+to+learn+something+new.)](https://git.io/typing-svg)
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Youraj8271&label=Profile%20views&color=0e75b6&style=flat" alt="Youraj8271" /> 
+</p>
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=Youraj8271&label=Profile%20views&color=0e75b6&style=flat"
-        alt="Youraj8271" /> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/Youraj8271" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/yuvraaj__yv/" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/Youraj8271" target="blank"><img
-            src="https://img.shields.io/badge/Instagram%20Threads-%23000000?logo=instagram&style=for-the-badge&link=https://www.instagram.com/Youraj8271&color=green"
-            alt="Youraj8271" /></a> </p>
+---
 
-- 🔭 I have recently worked on [Real-Time Traffic Flow Prediction System](https://github.com/Youraj8271/)
+### 🚀 What I Do:
+- 🔭 Currently working on **Real-Time Traffic Flow Prediction System**
 - 🌱 Currently learning **Deep Learning, NLP & Big Data**
 - 👯 Looking to collaborate on **AI, ML & Data Analytics Projects**
 - 📊 Passionate about **Data Visualization, Statistics & Machine Learning**
 - 🧠 Motto: *"Turning data into decisions and insights."*
 - ⚡ Fun fact: **I can spend hours optimizing one line of code!**
 
-### Skills and Tools: &nbsp; 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-            alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649"
-            alt="css3" width="40" height="40" /> </a>
-             <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQsenTcQtOr0PJkS8d9HFO0c1nTeQa1IZjg&usqp=CAU"
-            alt="express" width="40" height="40" /> </a> 
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://img2.gratispng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-%E6%9D%89-%E5%B1%B1-%E8%89%AF-%E9%9B%84-5b62be01b565d5.334247781533197825743.jpg"
-            alt="html5" width="40" height="40" /> </a>  <a href="https://www.mongodb.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
-            alt="mongodb" width="100" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"
-            alt="mysql" width="40" height="40" /> </a>  <img
-            src="https://play-lh.googleusercontent.com/lNy35u_4HIHu4Wqj0WIENtN0HmeZuEx4V8UwdMw0wxcRKvYbskmPEII05HWxK5nI0g"
-            alt="nodejs" width="80" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-jpq1ZKOvnbJIGSYVcdpfC0LKsk57DWqLZhWACzPD6A&s" alt="php"
-            width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3YraeeRnBhf1Sd-QQndtiCYLL5RTFWDhvjcooa9c8NqWeU6D0vP3x-3l1bfX5vskcToE&usqp=CAU"
-            alt="react" width="40" height="40" /> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="redux"
-            width="40" height="40" /> </a>
+---
+
+### 🧰 Skills and Tools:
+
+#### 🐍 Programming:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 </p>
 
-<h3 align="left">Quick Stats:</h3>
+#### 📊 Data Science & Machine Learning:
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="70" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="70" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="40" height="40"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="70" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="pytorch" width="70" height="40"/>
+</p>
 
+#### 💾 Databases:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+</p>
+
+#### ☁️ Cloud & Big Data:
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="60" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="gcp" width="60" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_Spark_logo.svg" alt="spark" width="70" height="40"/>
+</p>
+
+#### 🧰 Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="docker" width="60" height="40"/>
+</p>
+
+---
+
+### 🧩 Featured Projects:
+- 🥗 [Local Food Wastage Management System](https://github.com/Youraj8271/Food-Wastage-Management)
+- 🎮 [Video Game Sales & Engagement Analysis](https://github.com/Youraj8271/Video-Game-Sales)
+- 🚗 [Real-Time Traffic Flow Prediction System](https://github.com/Youraj8271/Traffic-Flow-Prediction)
+- 💹 [Tesla Stock Price Prediction](https://github.com/Youraj8271/Tesla-Stock-Price-Prediction)
+- 🌾 [Crop Yield Prediction System](https://github.com/Youraj8271/Crop-Yield-Prediction)
+- 🧠 [AI-Powered Dream11 Team Generator](https://github.com/Youraj8271/Dream11-AI)
+
+---
+
+### 📊 GitHub Stats:
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=Youraj8271&&theme=dark&hide=TCL"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=Youraj8271&show_icons=true&theme=dark&hide_border=true&line_height=27"
         alt="Youraj8271" /></p>
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=Youraj8271&show_icons=true&theme=tokyonight&count_private=true&line_height=33"
         alt="Youraj8271" /></p>
 
+---
 
-<br />
-<br />
-
-### Connect with me: <img alt="Manish's skills" width="64px" height="30px" src="https://user-images.githubusercontent.com/87755170/184556805-158da890-3181-4a36-a6e0-9dbd1b0d07ac.gif" />
+### 🤝 Connect with Me:
 <p align="left">
-    <!-- <a href="https://www.threads.net/@language__c" target="blank"><img align="center"
-            src="https://logowik.com/content/uploads/images/instagram-threads6682.logowik.com.webp"
-            alt="Thread" height="30" width="40" /></a> -->
-    <a href="https://www.instagram.com/yuvraaj__yv/" target="blank"><img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"
-            alt="Instagram" height="30" width="40" /></a>
-    <!-- <a href="https://www.hackerrank.com/rrew1212" target="blank"><img align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/HackerRank_logo.png/600px-HackerRank_logo.png?20180109055843"
-            alt="hackerrank" height="30" width="40" /></a> -->
-    <!-- --<a href="https://Youraj8271.netlify.app/" target="blank"><img align="center"
-            src="https://img.freepik.com/free-icon/internet_318-402722.jpg"
-            alt="PortFolio" height="30" width="40" /></a> -->
-
+  <a href="https://www.linkedin.com/in/Youraj8271" target="blank"><img align="center"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+          alt="LinkedIn" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/yuvraaj__yv/" target="blank"><img align="center"
+          src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+          alt="Instagram" height="30" width="30" /></a>
+  <a href="mailto:yourajkumar15032@gmail.com" target="blank"><img align="center"
+          src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
+          alt="Gmail" height="30" width="40" /></a>
 </p>
+
+---
+
+### 🏆 "Data is not just numbers; it’s stories waiting to be told."  
+**– Youraj Kumar, Data Scientist**
