@@ -21,7 +21,7 @@
   <a href="https://www.instagram.com/yuvraaj__yv/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:youraj_2412res154@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=youraj_2412res154@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -129,7 +129,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/youraj-kumar-584854276" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
   <a href="https://www.instagram.com/yuvraaj__yv/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" /></a>
-  <a href="youraj_2412res154@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=youraj_2412res154@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" /></a>
 </p>
 
 ---
