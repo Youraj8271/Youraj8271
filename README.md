@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/Youraj8271" target="_blank">Youraj Kumar</a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/youraj-kumar-584854276" target="_blank">Youraj Kumar</a></h1>
 <h3 align="center">🎓 Data Scientist | AI & ML Researcher | IIT Patna | Oracle Certified</h3>
 
 <p align="center">
@@ -15,13 +15,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/youraj-kumar-584854276/" target="_blank">
+  <a href="https://www.linkedin.com/in/youraj-kumar-584854276" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/yuvraaj__yv/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:yourajkumar15032@gmail.com">
+  <a href="mailto:youraj_2412res154@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -39,50 +36,63 @@
 ---
 
 ### 🧰 Technical Arsenal
+<div align="center">
 
-#### 💻 Programming Languages:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+💻 **Programming Languages**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="55" height="55" title="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" title="CSS3" />
 </p>
 
-#### 🧮 Data Science & Machine Learning:
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="70" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="70" />
-  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="45" />
-  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="70" />
-  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="70" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" />
+---
+
+📊 **Data Science & Machine Learning**  
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="75" height="45" title="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="75" height="45" title="Pandas" />
+  <img src="https://matplotlib.org/_static/logo_light.svg" width="75" height="45" title="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" width="45" height="45" title="Seaborn" />
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="75" height="45" title="Scikit-Learn" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" title="TensorFlow" />
+  <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="75" height="45" title="PyTorch" />
 </p>
 
-#### 💾 Databases & Big Data:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="55" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_Spark_logo.svg" width="80" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" />
+---
+
+💾 **Databases & Big Data Technologies**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="60" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="70" height="60" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" height="55" title="SQLite" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Apache_Spark_logo.svg" width="95" height="50" title="Apache Spark" />
 </p>
 
-#### ☁️ Cloud Platforms:
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="60" />
-  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="60" />
-  <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="80" />
-  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" width="60" />
+---
+
+☁️ **Cloud Platforms & MLOps**  
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" width="75" height="50" title="AWS" />
+  <img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" width="75" height="50" title="Google Cloud" />
+  <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" width="95" height="55" title="Oracle Cloud" />
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" width="75" height="50" title="Azure" />
 </p>
 
-#### ⚙️ Tools & Frameworks:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="45" />
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="45" />
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="60" />
+---
+
+🧩 **Tools, IDEs & Frameworks**  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55" title="Jupyter Notebook" />
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="55" height="55" title="Streamlit" />
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="75" height="55" title="Docker" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Power_BI_logo.svg" width="60" height="55" title="Power BI" />
 </p>
+
+</div>
 
 ---
 
@@ -127,9 +137,8 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/Youraj8271" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
-  <a href="https://www.instagram.com/yuvraaj__yv/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" /></a>
-  <a href="mailto:yourajkumar15032@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" /></a>
+  <a href="https://www.linkedin.com/in/youraj-kumar-584854276" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
+  <a href="mailto:youraj_2412res154@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="45" /></a>
 </p>
 
 ---
