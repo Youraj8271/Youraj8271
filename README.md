@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Youraj8271" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/youraj-kumar-584854276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/yuvraaj__yv/" target="_blank">
